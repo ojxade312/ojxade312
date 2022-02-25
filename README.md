@@ -28,8 +28,6 @@ Welcome to my projects✨
 - 🌱 I’m currently learning AWS Cloud Practioner
 - 👯 I’m looking to collaborate on any interesting Software Engineering projects
 
-- 📫 How to reach me:<a href=”https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk"><img src="174857.png” alt=”alternate text”width=”30px”></a>
-  ![https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk](https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk)
-  ![https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk](174857.png)
+- 📫 How to reach me:
 
-[174857.png](https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk)
+![174857.png](https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk)
