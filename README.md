@@ -29,3 +29,5 @@ Welcome to my projects✨
 - 👯 I’m looking to collaborate on any interesting Software Engineering projects
 
 - 📫 How to reach me:<a href=”https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk"><img src="174857.png” alt=”alternate text”width=”30px”></a>
+  [https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk](https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk)
+  [https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk]()"174857.png”
