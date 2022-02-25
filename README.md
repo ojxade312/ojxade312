@@ -31,3 +31,5 @@ Welcome to my projects✨
 - 📫 How to reach me:<a href=”https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk"><img src="174857.png” alt=”alternate text”width=”30px”></a>
   ![https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk](https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk)
   ![https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk]("174857.png”)
+
+[https://cdn-icons-png.flaticon.com/512/174/174857.png](https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk)
