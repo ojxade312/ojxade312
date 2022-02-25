@@ -32,6 +32,6 @@ Welcome to my projects✨
 
 ![174857.png](https://www.linkedin.com/in/ayomide-ojelade-1ba34b220/?originalSubdomain=uk)
 <a href="https://www.linkedin.com/in/asia-sharif-60616b150/">
-<img src="174857" alt="alternate text"
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="alternate text"
 width="30px" height="height">
 </a>
